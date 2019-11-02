@@ -1,0 +1,2 @@
+model_checkpoint_path: "Transformer_Dynamic_Sparse.ckpt"
+all_model_checkpoint_paths: "Transformer_Dynamic_Sparse.ckpt"

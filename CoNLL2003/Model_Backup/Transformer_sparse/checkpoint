@@ -1,0 +1,2 @@
+model_checkpoint_path: "Transformer_sparse.ckpt"
+all_model_checkpoint_paths: "Transformer_sparse.ckpt"
