@@ -1,7 +1,7 @@
 ## Virtues-of-Sparsity
 
-Attempted implementation and experiment with [continuous sparsification](https://openreview.net/forum?id=BJe4oxHYPB) and [sparse representaions]
-(https://arxiv.org/abs/1903.11257) (with k-winner activation along with duty cycles and everything)
+Attempted implementation and experiment with [continuous sparsification](https://openreview.net/forum?id=BJe4oxHYPB) and [sparse representaions](https://arxiv.org/abs/1903.11257) 
+(with k-winner activation along with duty cycles and everything)
 with Transformers on Named Entity Recognition (CoNLL 2003).
 
 
